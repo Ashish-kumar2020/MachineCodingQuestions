@@ -1,8 +1,8 @@
 import "./App.css";
-import AutoIncrement from "./components/AutoIncrement";
+import AutoIncrementCounter from "./components/AutoIncrementCounter";
 
 function App() {
-  return <AutoIncrement />;
+  return <AutoIncrementCounter />;
 }
 
 export default App;
